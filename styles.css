@@ -1,0 +1,125 @@
+/* estilos gerais */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.interface{
+    padding: 20px 4%;
+}
+section.formulario{
+    background-color:rgba(92, 125, 247);
+    border-radius:1rem 1rem 0 0;
+}
+section{
+    background-color:rgba(92, 125, 247);
+}
+section.comentarios{
+    background-color:rgba(92, 125, 247);
+    border-radius:0 0 1rem 1rem;
+}
+body{
+    background-color: #000;
+}
+label{
+    font-size:18px;
+    padding-right: 10px;
+}
+form div{
+    margin: 8px;
+}
+h1{
+    font-size:36px;
+}
+h2{
+    font-size:2rem;
+}
+h3{
+    font-size:24px;
+    padding-bottom: 8px;
+}
+input{
+    border-radius:10px;
+    padding: 3px;
+    font-size:16px;
+    border: 0;
+    transition: 0.4s;
+    outline: none;
+    
+}
+input:hover{
+    transform:scale(1.08);
+    box-shadow: 0 0 40px rgb(96, 215, 96);
+}
+select{
+    padding: 5px;
+    border: 0;
+    border-radius: 15px;
+    transition: 0.4s;
+    outline: none;
+}
+select:hover{
+    transform:scale(1.08);
+    box-shadow: 0 0 40px rgb(96, 215, 96);
+}
+
+/* estilo header */
+header .imagem img{
+    width:100px;
+    height: 100px;
+    border-radius: 2rem;
+}
+header .flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#74f2bd;
+    border-radius: 2rem 0 2rem  0;
+    box-shadow: 0 0 40px rgb(96, 215, 96);
+}
+header .interface{
+    padding: 05px;
+}
+
+.flex .titulos{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+span{
+    color: rgb(31, 185, 23)
+}
+/* estilo formulario */
+.size{
+    width: 200px;
+}
+.numero{
+    width:45px;
+}
+
+/* estilo de opções */
+.opniao-um{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   display: inline-block;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.opniao-4 .opçoes{
+    display:flex;
+    flex-direction: column;
+}
+/* estilo das seções */
+section .flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* estilo comentarios */
+textarea{
+    background-color:#000;
+    color: rgb(96, 215, 96);
+    margin-bottom: 5px
+}
