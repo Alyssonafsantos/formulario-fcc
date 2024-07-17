@@ -6,6 +6,6 @@
 <li>CSS 3</li>
 </ul>
 <h2>Status do projeto</h2>
-<p>ok Concluido ok</p>
+<p> :ok: Concluido :ok: </p>
 <h2>Pessoas desenvolvedoras</h2>
 <p>Alysson Santos</p>
