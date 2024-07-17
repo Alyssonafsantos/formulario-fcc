@@ -1,5 +1,5 @@
 <h1 align="center">Formulário de Pesquisa FCC</h1>
-<p>Este é um exercicio passado no curso da página freeCodeCamp. Aprendemos a trabalhar com CSS e HTML, e após uma boa quantidade de conteúdo absorvida, precisamos realizar alguns exercicios, tais como esse do formulário de pesquisa. 
+<p>Este é um exercício passado no curso da página freeCodeCamp. Aprendemos a trabalhar com CSS e HTML, e após uma boa quantidade de conteúdo absorvida, precisamos realizar alguns exercícios, tais como esse do formulário de pesquisa.</p> 
 <h2>Técnologia ultilizada</h2>
 <ul>
 <li>HTML 5</li>
